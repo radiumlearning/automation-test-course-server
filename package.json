@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@upstash/qstash": "^0.3.2",
     "mongodb": "^4.13.0",
     "mongoose": "^6.8.2",
     "next": "latest",
